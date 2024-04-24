@@ -1,0 +1,144 @@
+{
+  "main": {
+    "firstName": "Shubham",
+    "name": "Shubham Singal",
+    "occupation": "Full Stack Developer",
+    "description": "Tech wizard, React aficionado, Node.js ninja; adept at enhancing apps, optimizing APIs, and integrating hilariously.",
+    "image": "profile-photo.jpg",
+    "bio": "My name is Shubham, I'm a Full Stack MERN Developer. Currently I'm working at Muoro as SDE-2",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "singalshubham312@gmail.com",
+    "address": {
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1ReFns3oseT9S4O02TwgaVCvp3yhvqChn/view?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ShubhamSingal78",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shubham-singal-618770160/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shubham_singal_7/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://www.instagram.com/shubham_singal_7/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am well versed in using React.JS, Next.js, Node.Js and Nest.js as my tech stack along with MySql, PostgresSQL and MongoDB.",
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "degree": "Bachelors of Technology"
+      }
+    ],
+    "work": [
+      {
+        "company": "Muoro",
+        "title": "SDE-2",
+        "years": "Sep 2022 - Present",
+        "description": "Managed projects for 4 clients including whitelabel, resume parsing, OKR API, and accounting records, leading a team of 2 developers, while swiftly resolving production bugs."
+      },
+      {
+        "company": "BuildUp",
+        "title": "Software Developer",
+        "years": "Aug 2021 - Sep 2022",
+        "description": "Built a server with Node.js, MongoDB, and AWS OpenSearch, while implementing E2E testing, CI/CD with AWS CodeBuild and Pipeline, and a React.js web app with unit test coverage."
+      },
+      {
+        "company": "Amazon",
+        "title": "Software Development Engineer",
+        "years": "Feb 2021 - Aug 2021",
+        "description": "Developed React.js internal dashboard with Chart.js statistics, integrated JIRA API for data visualization, employed Test Driven Development with Jest and React Testing Library, and automated end-to-end testing using UiAutomator."
+      },
+      {
+        "company": "MyWays",
+        "title": "Full Stack Developer",
+        "years": "May 2020 - Jul 2020",
+        "description": "Enhanced an internship portal with mobile responsiveness, role-based access, chat, and notifications via socket.io, while ensuring comprehensive bug resolution and testing coverage."
+      },
+      {
+        "company": "Young Engine",
+        "title": "Frontend Developer",
+        "years": "Jun 2019 - Jul 2019",
+        "description": "Developed a student-focused internship portal frontend with React.js, React Hooks, Context API, and Bootstrap, featuring login/signup pages for students and employers"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "NextJs",
+        "level": "75%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "85%"
+      },
+      {
+        "name": "NestJs",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Redux",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "MySql, PostgresSql",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Whitelabel",
+        "category": "Developed micro frontends and drag-and-drop dynamic form builders using Next.js for a Chicago-based SAAS project enabling loan applications and verification by borrowers and lenders.",
+        "image": "whitelabel-project.png"
+      },
+      {
+        "title": "Resume Parser",
+        "category": "Built a profile parsing and search application utilizing a React.js template from Metronics, with backend development in Express.js, MySQL for the database, MongoDB for audit logs, and integration of Google Drive API for bulk uploads from client drives.",
+        "image": "resume-parser-project.png",
+        "url": "https://parser.muoro.io"
+      },
+      {
+        "title": "MyFormations - Accounting Records",
+        "category": "Developed a role-based access-controlled React accounting application with Okta authentication, utilizing KendoUI components customized with Sass for exemptions and data submission.",
+        "image": "accounting-records-project.png"
+      },
+      {
+        "title": "OKR API",
+        "category": "Enhanced an OKR software, optimizing API requests for faster retrieval, integrating Jira API for custom field addition and data synchronization, and improving overall speed through MongoDB query optimization and index addition.",
+        "image": "okr-api-project.png",
+        "url": "https://welcome.getjop.com"
+      }
+    ]
+  }
+}
